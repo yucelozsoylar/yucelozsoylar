@@ -1,16 +1,27 @@
-## Hi there 👋
+## Merhaba, ben Yücel 👋
 
-<!--
-**yucelozsoylar/yucelozsoylar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hakkımda
+Kurumsal eğitim danışmanlığı ve dijital içerik üretim
+hizmetleri alanında aktif olarak çalışıyorum. Teknolojiye
+ve yapay zekâ araçlarına ilgisi yüksek, girişimci ruhu
+yoğun biriyim. Üretmeyi, denemeyi ve yeni şeyler inşa
+etmeyi seviyorum.
 
-Here are some ideas to get you started:
+### Üzerinde çalıştığım proje
+**Kendine Yardım Et** adında bir psikolojik destek
+mobil uygulaması geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stres, anksiyete ve depresyonla başa çıkmaya yardımcı
+olacak araçlar, rehberli içerikler ve takip özellikleri
+sunan bir uygulama. Türkçe, mobil öncelikli, iOS ve
+Android'de yayında olacak.
+
+### Nasıl çalışıyorum
+- Psikoloji hassas bir alan; bu yüzden klinik içerikler
+  bir uzman psikolog eşliğinde hazırlanıyor
+- Her adımda kullanıcı güveni, gizlilik ve KVKK uyumu
+  önceliğimiz
+- Açık beta öncesi son hazırlıklar sürüyor
+
+### İletişim
+- E-posta: yucelozsoylar@gmail.com
