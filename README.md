@@ -25,3 +25,4 @@ Android'de yayında olacak.
 
 ### İletişim
 - E-posta: yucelozsoylar@gmail.com
+<meta name="google-site-verification" content="opUOBcVGKOO4Q0goyWYr6QsRqHGs0TQjZLqqE8DWM_Q" />
